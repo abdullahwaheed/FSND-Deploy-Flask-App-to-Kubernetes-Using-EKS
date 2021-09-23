@@ -36,3 +36,9 @@ Completing the project involves several steps:
 6. Create a CodeBuild stage which will build, test, and deploy your code
 
 For more detail about each of these steps, see the project lesson.
+
+## Environment Variables
+
+You can use set following env variables in an ignored file name `.env_file`
+1. JWT_SECRET=<YOUR_JWT_SECRET>
+2. LOG_LEVEL=<YOUR_PREFERRED_LOG_LEVEL>
